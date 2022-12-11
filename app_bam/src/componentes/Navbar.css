@@ -1,0 +1,53 @@
+.navbar {
+    background-color: brown;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding: 0px;
+    display: flex;
+}
+
+.titulo {
+    font-size: 15px;
+    font-family: 'Lobster', cursive;
+    color: black;
+    justify-content: center;
+    padding-top: 10px;   
+}
+
+.objetos{
+    display: inline;
+    text-align: right;
+    padding: 2px;
+    width: 100%;
+    align-items: center;
+}
+
+.menuvar:hover{
+    text-decoration: underline;
+    background-color: white;
+}
+
+.botones{
+    align-items: right;
+    justify-content: right;
+    padding-right: 0px;
+}
+
+ul{
+    margin-left: 50px;
+    align-items: center;
+}
+.botonnav {
+    background-color: transparent;
+    border-radius:2px, solid;
+    font-size: 15px;
+    font-style: bold;
+    color: black;
+    align-items:right;
+    
+}
+#logo {
+    width: 30px;
+    height: 30px;
+}
